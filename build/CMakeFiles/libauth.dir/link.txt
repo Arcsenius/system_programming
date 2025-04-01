@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibauth.a CMakeFiles/libauth.dir/pack1/libauth/libauth/auth.c.o
+/usr/bin/ranlib liblibauth.a

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--dependency-file,CMakeFiles/task1.dir/link.d CMakeFiles/task1.dir/pack1/task1/main.c.o -o pack1/task1  liblibauth.a liblibdata.a liblibparse.a

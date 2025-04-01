@@ -1,0 +1,6 @@
+/home/arcsenius/university/system_programming/build/CMakeFiles/libauth.dir
+/home/arcsenius/university/system_programming/build/CMakeFiles/libdata.dir
+/home/arcsenius/university/system_programming/build/CMakeFiles/libparse.dir
+/home/arcsenius/university/system_programming/build/CMakeFiles/task1.dir
+/home/arcsenius/university/system_programming/build/CMakeFiles/edit_cache.dir
+/home/arcsenius/university/system_programming/build/CMakeFiles/rebuild_cache.dir

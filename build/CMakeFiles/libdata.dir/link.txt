@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibdata.a CMakeFiles/libdata.dir/pack1/libdata/libdata/data.c.o
+/usr/bin/ranlib liblibdata.a
